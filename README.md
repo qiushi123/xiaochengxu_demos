@@ -60,7 +60,7 @@
 #零基础自学小程序系列已被w3cschool收录:
 http://www.w3cschool.cn/xiaochengxu
 
-![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/images/w3c.png?raw=true）
+![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/images/w3c.png?raw=true)
 
 
 
