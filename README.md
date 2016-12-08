@@ -20,7 +20,7 @@ http://www.w3cschool.cn/xiaochengxu
 ###3，弹幕可以自定义颜色
 
 ### 模拟器和真机运行效果:
-![](http://img.blog.csdn.net/20161208120438607?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcWl1c2hpXzE5OTA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/images/GIF005_2.gif?raw=true)
 ![](http://img.blog.csdn.net/20161208120502779?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcWl1c2hpXzE5OTA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 博客详解：http://blog.csdn.net/qiushi_1990/article/details/53516521
