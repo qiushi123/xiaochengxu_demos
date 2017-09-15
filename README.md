@@ -16,7 +16,10 @@ http://www.w3cschool.cn/xiaochengxu
 ### 持续更新中.......
 
 
-## -----------------------------------下面是效果图和源码地址------------------------------------------------------
+
+![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/images/wechatlogo.jpg?raw=true)
+### 关注上面微号回复1可以加小程序学习微信群，群里和大家交流学习，一起进步有问题加我微信：2501902696（备注小程序）
+* -----------------------------------下面是效果图和源码地址------------------------------------------------------
 # 009，小程序实战入门009---小程序表格实现，小程序table实现
 ![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/images/009GIF.gif?raw=true)
 博客详解：http://www.jianshu.com/p/bbfc4c44880f
