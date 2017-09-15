@@ -26,10 +26,10 @@ http://www.w3cschool.cn/xiaochengxu
 源码请往上看
 
 # 005，小程序开发之视频播放器带弹幕Video 弹幕颜色自定义
-##实现功能
-###1，小程序播放在线视频
-###2，视频带弹幕效果
-###3，弹幕可以自定义颜色
+## 实现功能
+1，小程序播放在线视频
+2，视频带弹幕效果
+3，弹幕可以自定义颜色
 
 ### 模拟器和真机运行效果:
 ![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/images/GIF005_2.gif?raw=true)
@@ -40,13 +40,13 @@ http://www.w3cschool.cn/xiaochengxu
 
 
 # 004，小程序实现大转盘抽奖效果，跑马灯效果
-##实现功能
-###1，小程序仿天猫超市抽奖大转盘
-###2，跑马灯效果
-###3，开始抽奖，抽奖完成后有弹窗
+## 实现功能
+1，小程序仿天猫超市抽奖大转盘
+2，跑马灯效果
+3，开始抽奖，抽奖完成后有弹窗
 
 ### 先看截图:
-![](http://img.blog.csdn.net/20161207161359761?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcWl1c2hpXzE5OTA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/images/004.gif?raw=true)
 
 博客详解：http://blog.csdn.net/qiushi_1990/article/details/53507561
 源码地址：http://download.csdn.net/detail/qiushi_1990/9704771
