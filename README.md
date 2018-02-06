@@ -11,7 +11,8 @@ http://www.w3cschool.cn/xiaochengxu
 ### 003，小程序自学系列（零基础学小程序）---小程序实现电商秒杀倒计时效果
 ### 004，小程序自学系列（优秀源码004）---小程序实现大转盘抽奖效果，跑马灯效果
 ### 005，小程序自学系列（优秀源码005）---小程序开发之视频播放器带弹幕Video 弹幕颜色自定义
-### 6,7,8过段时间更新
+### 6,7过段时间更新
+### 008，小程序自学系列（零基础学小程序）----列表和轮播图的实现，小程序解析json数据
 ### 009，小程序实战入门009---小程序表格实现，小程序table实现
 ### 持续更新中.......
 
@@ -24,6 +25,11 @@ http://www.w3cschool.cn/xiaochengxu
 ![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/images/009GIF.gif?raw=true)
 博客详解：http://www.jianshu.com/p/bbfc4c44880f
 源码请往上看
+
+# 008，小程序实战入门008---列表和轮播图的实现，小程序解析json数据
+![](https://upload-images.jianshu.io/upload_images/6273713-2d771c5f31131b51?imageMogr2/auto-orient/strip%7CimageView2/2/w/320)
+博客详解：https://www.jianshu.com/p/722dbc9402ec
+源码：http://download.csdn.net/download/qiushi_1990/9975685
 
 # 005，小程序开发之视频播放器带弹幕Video 弹幕颜色自定义
 ## 实现功能
