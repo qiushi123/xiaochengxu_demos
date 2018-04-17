@@ -2,10 +2,9 @@
 小程序优秀项目源码汇总，每个项目都有图有源码，小程序开发有些功能没有必要自己造轮子，尽可以踩在前人的肩膀上
 如果觉得不错，欢迎star,源码持续收录中。。。
 
-零基础自学小程序系列已被w3cschool收录:
-http://www.w3cschool.cn/xiaochengxu
-微信小游戏：https://30paotui.com/
-零基础实战入门小程序系列教程：https://www.jianshu.com/c/f386d5ba1b3c
+- 零基础自学小程序系列已被w3cschool收录:http://www.w3cschool.cn/xiaochengxu
+- 微信小游戏：https://30paotui.com/
+- 零基础实战入门小程序系列教程：https://www.jianshu.com/c/f386d5ba1b3c
 
 # 目录
 ### 001，实现底部导航栏和顶部导航栏
