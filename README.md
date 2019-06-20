@@ -1,3 +1,11 @@
+# 视频资源：
+- 10小时零基础入门小程序开发：https://edu.csdn.net/course/detail/9531/265553 
+- 云开发入门视频（小程序云开发）：https://edu.csdn.net/course/play/9604 
+- 小程序支付和推送(商城小程序)：https://edu.csdn.net/course/detail/24770
+- 10小时实战入门Java视频：https://edu.csdn.net/course/detail/23443
+- 微信小程序消息推送视频：https://edu.csdn.net/course/detail/23750
+- Python爬虫和数据分析视频：https://edu.csdn.net/course/detail/25009
+
 # 小程序优秀源码汇总
 小程序优秀项目源码汇总，每个项目都有图有源码，小程序开发有些功能没有必要自己造轮子，尽可以踩在前人的肩膀上
 如果觉得不错，欢迎star,源码持续收录中。。。
