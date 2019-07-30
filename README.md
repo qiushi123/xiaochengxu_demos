@@ -1,10 +1,13 @@
 # 视频资源：
-- 10小时零基础入门小程序开发：https://edu.csdn.net/course/detail/9531/265553 
-- 云开发入门视频（小程序云开发）：https://edu.csdn.net/course/play/9604 
-- 小程序支付和推送(商城小程序)：https://edu.csdn.net/course/detail/24770
-- 10小时实战入门Java视频：https://edu.csdn.net/course/detail/23443
-- 微信小程序消息推送视频：https://edu.csdn.net/course/detail/23750
-- Python爬虫和数据分析视频：https://edu.csdn.net/course/detail/25009
+- 1，点餐小程序(java后台+小程序讲解)：https://study.163.com/course/courseMain.htm?courseId=1209428915
+- 2，零基础入门小程序开发：https://edu.csdn.net/course/detail/9531/265553 
+- 3，云开发入门视频（小程序云开发）：https://edu.csdn.net/course/play/9604 
+- 4，小程序支付和推送(商城小程序)：https://edu.csdn.net/course/detail/24770
+- 5，使用java开发小程序后台:https://edu.csdn.net/course/play/24744/280253
+- 6，零基础实战入门Java视频：https://edu.csdn.net/course/detail/23443
+- 7，微信小程序消息推送视频：https://edu.csdn.net/course/detail/23750
+- 8，Python爬虫和数据分析视频：https://edu.csdn.net/course/detail/25009
+
 
 # 小程序优秀源码汇总
 小程序优秀项目源码汇总，每个项目都有图有源码，小程序开发有些功能没有必要自己造轮子，尽可以踩在前人的肩膀上
@@ -23,17 +26,24 @@
 ### 6,7过段时间更新
 ### 008，小程序自学系列（零基础学小程序）----列表和轮播图的实现，小程序解析json数据
 ### 009，小程序实战入门009---小程序表格实现，小程序table实现
+### 010，
 ### 持续更新中.......
 
 
 
 ![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/images/wechatlogo.jpg?raw=true)
 ### 关注上面微号回复1可以加小程序学习微信群，群里和大家交流学习，一起进步有问题加我微信：2501902696（备注小程序）
-* -----------------------------------下面是效果图和源码地址------------------------------------------------------
+
+——————————
+下面是效果图和源码地址------------------------------------------------------
+# 010 微信小程序入门学习，借助云开发动态更换swiper图片数据，小程序轮播图动态更新
+- 博客详解：https://blog.csdn.net/qiushi_1990/article/details/97783951
+- 源码往上看：demo190730_swiper
+
 # 009，小程序实战入门009---小程序表格实现，小程序table实现
 ![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/images/009GIF.gif?raw=true)
-博客详解：http://www.jianshu.com/p/bbfc4c44880f
-源码请往上看
+- 博客详解：http://www.jianshu.com/p/bbfc4c44880f
+- 源码： demo190729小程序表格
 
 # 008，小程序实战入门008---列表和轮播图的实现，小程序解析json数据
 ![](https://upload-images.jianshu.io/upload_images/6273713-2d771c5f31131b51?imageMogr2/auto-orient/strip%7CimageView2/2/w/320)
