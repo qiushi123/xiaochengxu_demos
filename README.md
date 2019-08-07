@@ -39,8 +39,7 @@
 下面是效果图和源码地址------------------------------------------------------
 # 011 小程序发邮件，小程序云开发借助云函数实现邮件发送功能
 ![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/011-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81-%E6%BA%90%E7%A0%81/1.png)
-![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/011-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5
-%AE%9E%E7%8E%B0%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81-%E6%BA%90%E7%A0%81/2.png)
+![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/011-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81-%E6%BA%90%E7%A0%81/2.png)
 - 博客详解：https://www.jianshu.com/p/3c6253bd0f5f
 - 源码看上面：011-小程序实现邮件发送-源码
 
