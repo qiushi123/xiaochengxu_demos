@@ -28,7 +28,8 @@
 ### 009，小程序实战入门009---小程序表格实现，小程序table实现
 ### 010，小程序swiper轮播图
 ### 011，小程序发邮件，小程序云开发借助云函数实现邮件发送功能
-### 持续更新中.......
+### 012，微信小程序云开发连接mysql数据库，小程序云函数操作mysql数据库
+## 持续更新中.......
 
 
 
@@ -39,6 +40,10 @@
 
 ——————————
 下面是效果图和源码地址------------------------------------------------------
+# 012 微信小程序云开发连接mysql数据库，小程序云函数操作mysql数据库
+- 博客详解：https://blog.csdn.net/qiushi_1990/article/details/98361329
+- 源码看上面 012 
+
 # 011 小程序发邮件，小程序云开发借助云函数实现邮件发送功能
 ![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/011-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81-%E6%BA%90%E7%A0%81/1.png)
 ![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/011-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%AE%9E%E7%8E%B0%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81-%E6%BA%90%E7%A0%81/2.png)
