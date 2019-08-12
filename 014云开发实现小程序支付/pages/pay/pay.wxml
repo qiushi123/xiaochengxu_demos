@@ -1,0 +1,8 @@
+<!--pages/pay/pay.wxml-->
+<form bindsubmit="formSubmit" bindreset="formReset">
+  <!-- 编写一个订单号 -->
+  <input name="orderid" placeholder="随便写一个订单号" />
+  <!-- 订单总价，单位（分） -->
+  <input name="money" placeholder="随便写一个订单总价" />
+  <button form-type="submit" type="primary">提交订单</button>
+</form>

@@ -1,0 +1,42 @@
+env:
+  commonjs: true
+  es6: true
+  node: true
+extends: "eslint:recommended"
+globals:
+  Atomics: readonly
+  SharedArrayBuffer: readonly
+parserOptions:
+  ecmaVersion: 2018
+rules:
+  no-console: 0
+  # 变量未定义提示
+  no-unused-vars: 0
+  # 禁止使用var
+  no-var: 2
+  # 禁止使用eval
+  no-eval: 2
+  # 禁止使用undefined, 使用void 0代替
+  no-undefined: 2
+  # 使用全等
+  eqeqeq: 1
+  # 强制2空格缩进
+  indent: [0, 2]
+  # 强制行尾分号
+  semi: [2, "always"]
+  # 强制使用单引号
+  quotes: [1, "single"]
+  # 关键字前空格
+  keyword-spacing: 1
+  # 操作符空格
+  space-infix-ops: 1
+  # 小括号内空格
+  space-in-parens: 1
+  # 块前空格
+  space-before-blocks: 1
+  # function小括号前空格
+  space-before-function-paren: 0
+  # 注释前空格
+  spaced-comment: 1
+  # 强制代码中使用一致性大括号
+  brace-style: 0
