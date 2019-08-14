@@ -29,7 +29,7 @@
 ### 010，小程序swiper轮播图
 ### 011，小程序发邮件，小程序云开发借助云函数实现邮件发送功能
 ### 012，微信小程序云开发连接mysql数据库，小程序云函数操作mysql数据库
-### 013，
+### 013，小程序webview的使用，小程序和h5的交互
 ### 014，使用小程序云开发实现小程序支付功能
 ## 持续更新中.......
 
@@ -47,6 +47,11 @@
 - 源码看上面014
 - 视频讲解：https://edu.csdn.net/course/detail/25701
 
+# 013 
+- 博文详解：https://www.jianshu.com/p/d9bdceb2f648
+- 源码看上面013
+- 视频讲解：https://v.qq.com/x/page/t0913iprnay.html
+- 有问题加我微信： 2501902696（备注小程序）
 
 # 012 微信小程序云开发连接mysql数据库，小程序云函数操作mysql数据库
 - 博客详解：https://blog.csdn.net/qiushi_1990/article/details/98361329
