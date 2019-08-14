@@ -7,7 +7,7 @@
 - 6，零基础实战入门Java视频：https://edu.csdn.net/course/detail/23443
 - 7，微信小程序消息推送视频：https://edu.csdn.net/course/detail/23750
 - 8，Python爬虫和数据分析视频：https://edu.csdn.net/course/detail/25009
-
+- 9，3分钟实现微信小程序支付功能：https://edu.csdn.net/course/detail/25701
 
 # 小程序优秀源码汇总
 小程序优秀项目源码汇总，每个项目都有图有源码，小程序开发有些功能没有必要自己造轮子，尽可以踩在前人的肩膀上
@@ -43,9 +43,9 @@
 ——————————
 下面是效果图，源码地址和博客讲解------------------------------------------------------
 # 014 使用小程序云开发实现小程序支付功能
-- 博客详解：https://www.jianshu.com/p/2b391df055a9
+- 博客详解：https://blog.csdn.net/qiushi_1990/article/details/99347580
 - 源码看上面014
-- 视频讲解：https://edu.csdn.net/course/detail/24770
+- 视频讲解：https://edu.csdn.net/course/detail/25701
 
 
 # 012 微信小程序云开发连接mysql数据库，小程序云函数操作mysql数据库

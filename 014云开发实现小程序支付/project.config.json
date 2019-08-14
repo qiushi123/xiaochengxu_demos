@@ -1,6 +1,6 @@
 {
 	"description": "项目配置文件",
-  "cloudfunctionRoot":"cloud",
+	"cloudfunctionRoot": "cloud/",
 	"packOptions": {
 		"ignore": []
 	},
