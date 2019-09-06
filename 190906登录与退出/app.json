@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/me/me",
+    "pages/setting/setting"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "用户登录",
+    "navigationBarTextStyle": "black"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "位置信息权限"
+    }
+  },
+  "sitemapLocation": "sitemap.json"
+}

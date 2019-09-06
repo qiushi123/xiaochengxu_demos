@@ -1,0 +1,17 @@
+/* pages/setting/setting.wxss */
+/*右向箭头  */
+.button{
+ width: 80%;
+ margin: 10%
+}
+.right_arrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  padding: 3px;
+  position: fixed;
+  right: 15%;
+  top: 10.2%;
+  /* margin-left: 66%; */
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}

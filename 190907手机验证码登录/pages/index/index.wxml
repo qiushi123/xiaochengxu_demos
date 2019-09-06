@@ -1,0 +1,12 @@
+<view class="item">
+  <text class="tip">*</text>
+  <text class="tip2">手机号</text>
+  <input class="input"placeholder="请输入手机号" placeholder-class="plac" maxlength="11" type="number" />
+</view>
+<view class="item">
+  <text class="tip">*</text>
+  <text class="tip2">验证码</text>
+  <input class="input input2"placeholder="请输入验证码" placeholder-class="plac"  type="number" />
+  <text class="code" style="color:{{codeColor}};" bindtap="getCode">{{codeText}}</text>
+</view>
+<button class="btn">登录</button>

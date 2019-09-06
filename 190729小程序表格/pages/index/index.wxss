@@ -1,0 +1,142 @@
+/*实现子控件居中显示  */
+
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*顶部标题  */
+
+.title {
+  font-size: 34rpx;
+  margin: 40rpx;
+}
+
+.wechat {
+  font-size: 44rpx;
+  color: red;
+}
+
+/*表格布局  */
+.table{
+  border: 1px solid gray;
+  width: 600rpx;
+}
+/*第一行样式  */
+.section-top {
+  display: flex;
+  width: 600rpx;
+  flex-direction: row;
+}
+
+.input-top {
+  border-right: 1px solid gray;
+  height: 50rpx;
+  width: 150rpx;
+  color: #000;
+  font-weight: 800;
+  font-size: 14px;
+}
+.end{
+  border-right: 0px;
+}
+/*第二行样式  */
+.section2 {
+  display: flex;
+  width: 600rpx;
+  border-top: 1px solid gray;
+  flex-direction: row;
+}
+
+.input2 {
+  border-right: 1px solid gray;
+  height: 50rpx;
+  width: 150rpx;
+  color: #000;
+  font-weight: 800;
+  font-size: 14px;
+}
+.end2{
+  border-right: 0px;
+}
+/*第三行样式  */
+.section3 {
+  display: flex;
+  width: 600rpx;
+  border-top: 1px solid gray;
+  flex-direction: row;
+}
+
+.input3 {
+  border-right: 1px solid gray;
+  height: 50rpx;
+  width: 150rpx;
+  color: #000;
+  font-weight: 800;
+  font-size: 14px;
+}
+.end3{
+  border-right: 0px;
+}
+
+
+
+.section {
+  display: flex;
+  width: 700rpx;
+  flex-direction: row;
+}
+
+/*表格最左列名称  */
+
+.input-left1 {
+  border: 1px solid gray;
+  height: 50rpx;
+  width: 170rpx;
+  color: #000;
+  font-weight: 800;
+  font-size: 14px;
+}
+
+
+.input-text {
+  border: 1px solid gray;
+  height: 30px;
+  width: 20px;
+  color: #000;
+  font-weight: 800;
+  font-size: 14px;
+}
+
+.inputtwo {
+  margin-top: 2%;
+}
+
+.buttonAll {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35rpx;
+  margin-bottom: 50rpx;
+}
+
+.submitone {
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.submittwo {
+  vertical-align: middle;
+  display: table-cell;
+}
+
+/* 按钮提交颜色 */
+
+.button-hover-class {
+  background-color: red;
+}
+
+.resTitle {
+  font-size: 35rpx;
+}

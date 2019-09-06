@@ -1,0 +1,5 @@
+<!--pages/setting/setting.wxml-->
+
+  <button class="button" open-type="openSetting" type='primary'>打开授权设置页</button>
+  <view class='right_arrow' />
+

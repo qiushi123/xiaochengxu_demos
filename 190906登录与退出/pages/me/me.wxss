@@ -1,0 +1,64 @@
+/* pages/me.wxss */
+
+page {
+  background: gainsboro;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+  align-items: center;
+  background: white;
+}
+.btn-login{
+ padding: 10%;
+ background: white;
+}
+
+.userinfo-avatar {
+  border-radius: 128rpx;
+  width: 128rpx;
+  height: 128rpx;
+}
+
+.userinfo-nickname {
+  margin-top: 20rpx;
+  font-size: 38rpx;
+}
+.runner_desc{
+ font-size: 10pt;
+ color: red
+}
+/* 收集formid */
+.button_item {
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ padding: 2px 20px;
+ background: white;
+ border-bottom: 1px solid gainsboro;
+}
+
+.button {
+ width: 100%;
+ background: white;
+ border: none;
+ text-align: left;
+ padding: 6px 0px;
+ margin: 0px;
+ line-height: 1.5;
+ border-radius: 0;
+}
+
+.button::after {
+ border: none;
+}
+
+/* 用button伪装获取formid */
+
+.form_item {
+ width: 100%;
+}

@@ -1,0 +1,52 @@
+.item {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20rpx;
+  margin-top: 25rpx;
+  padding-bottom: 25rpx;
+  border-bottom: 1px solid gainsboro;
+}
+
+.tip {
+  font-size: 0.5rem;
+  color: red;
+}
+
+.tip2 {
+  font-size: 0.8rem;
+  color: black;
+}
+
+.btn {
+  color: white;
+  background: #0271c1;
+  font-size: 0.9rem;
+  width: 90%;
+  margin-top: 60rpx;
+}
+
+.input {
+  margin-left: 40rpx;
+}
+
+.input2 {
+  width: 50%;
+}
+
+.plac {
+  color: #aab2bd;
+  font-size: 0.8rem;
+  /* placeholder位置  *//* text-align: right; */
+}
+
+/* 验证吗 */
+
+.code {
+  width: 160rpx;
+  border: 1px solid #0271c1;
+  font-size: 0.8rem;
+  text-align: center;
+  padding: 10rpx;
+  position: absolute;
+  right: 15rpx;
+}

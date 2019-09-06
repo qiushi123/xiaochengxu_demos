@@ -1,0 +1,95 @@
+{
+	"description": "项目配置文件。",
+	"cloudfunctionRoot": "cloud/",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.8.0",
+	"appid": "wx637922303f7366e7",
+	"projectname": "%E6%8E%88%E6%9D%83%E7%99%BB%E5%BD%95%E4%B8%8E%E9%80%80%E5%87%BA",
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 5,
+			"list": [
+				{
+					"id": 0,
+					"name": "pages/order/order",
+					"pathName": "pages/order/order",
+					"query": "type=0",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的",
+					"pathName": "pages/me/me",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的订单",
+					"pathName": "pages/myorder/myorder",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "myorder2",
+					"pathName": "pages/myorder2/myorder2",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "管理员",
+					"pathName": "pages/runner/runner",
+					"query": "type=0",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "广告页",
+					"pathName": "pages/ad/ad",
+					"scene": null
+				}
+			]
+		}
+	}
+}

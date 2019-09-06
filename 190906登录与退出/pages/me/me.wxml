@@ -1,0 +1,11 @@
+<!--pages/me/me.wxml-->
+<view class="header" wx:if="{{isShowUserName}}">
+  <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}"></image>
+  <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+  <text class="userinfo-nickname">openid:{{openid}}</text>
+</view>
+<!--如果用户没有授权，显示登陆按钮  -->
+<view wx:if="{{!isShowUserName}}" class="btn-login">
+  <button open-type="getUserInfo" lang="zh_CN" type="primary" bindgetuserinfo="onGotUserInfo">授权登陆</button>
+</view>
+<button wx:if="{{isShowUserName}}" bindtap="loginOut">退出登录</button>
