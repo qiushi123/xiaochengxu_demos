@@ -1,48 +1,39 @@
-// pages/pengyouquan/pengyouquan.js
+/**
+ * 编程小石头
+ * 微信：2501902696
+ */
+let app = getApp();
 Page({
   data: {
-    imgList: []
+    dataList: []
   },
-
-  onLoad: function(options) {
-
-  },
-
-  //选择图片
-  ChooseImage() {
-    wx.chooseImage({
-      count: 8, //默认9
-      sizeType: ['original', 'compressed'], //可以指定是原图还是压缩图，默认二者都有
-      sourceType: ['album'], //从相册选择
-      success: (res) => {
-        console.log("选择图片成功", res)
-        if (this.data.imgList.length != 0) {
-          this.setData({
-            imgList: this.data.imgList.concat(res.tempFilePaths)
+  onLoad() {
+    let that = this;
+    wx.cloud.database().collection('timeline')
+      .orderBy('createTime', 'desc') //按发布视频排序
+      .get({
+        success(res) {
+          console.log("请求成功", res)
+          that.setData({
+            dataList: res.data
           })
-        } else {
-          this.setData({
-            imgList: res.tempFilePaths
-          })
+        },
+        fail(res) {
+          console.log("请求失败", res)
         }
-      }
-    });
+      })
   },
-  //删除图片
-  DeleteImg(e) {
-    wx.showModal({
-      title: '要删除这张照片吗？',
-      content: '',
-      cancelText: '取消',
-      confirmText: '确定',
-      success: res => {
-        if (res.confirm) {
-          this.data.imgList.splice(e.currentTarget.dataset.index, 1);
-          this.setData({
-            imgList: this.data.imgList
-          })
-        }
-      }
+  // 预览图片
+  previewImg: function(e) {
+    let imgData = e.currentTarget.dataset.img;
+    console.log("eeee", imgData[0])
+    console.log("图片s", imgData[1])
+    wx.previewImage({
+      //当前显示图片
+      current: imgData[0],
+      //所有图片
+      urls: imgData[1]
     })
   },
+
 })

@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/fabu/fabu",
     "pages/pengyouquan/pengyouquan"
   ],
   "window": {

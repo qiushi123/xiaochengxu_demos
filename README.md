@@ -9,13 +9,6 @@
 - 8，Python爬虫和数据分析视频：https://edu.csdn.net/course/detail/25009
 - 9，3分钟实现微信小程序支付功能：https://edu.csdn.net/course/detail/25701
 
-# 小程序优秀源码汇总
-小程序优秀项目源码汇总，每个项目都有图有源码，小程序开发有些功能没有必要自己造轮子，尽可以踩在前人的肩膀上
-如果觉得不错，欢迎star,源码持续收录中。。。
-
-- 零基础自学小程序系列已被w3cschool收录:http://www.w3cschool.cn/xiaochengxu
-- 微信小游戏：https://30paotui.com/
-- 零基础实战入门小程序系列教程：https://www.jianshu.com/c/f386d5ba1b3c
 
 # 目录
 ### 001，实现底部导航栏和顶部导航栏
@@ -31,8 +24,17 @@
 ### 012，微信小程序云开发连接mysql数据库，小程序云函数操作mysql数据库
 ### 013，小程序webview的使用，小程序和h5的交互
 ### 014，使用小程序云开发实现小程序支付功能
+### 015，借助云开发实现小程序朋友圈的发布与展示
 ## 持续更新中.......
 
+
+# 小程序优秀源码汇总
+小程序优秀项目源码汇总，每个项目都有图有源码，小程序开发有些功能没有必要自己造轮子，尽可以踩在前人的肩膀上
+如果觉得不错，欢迎star,源码持续收录中。。。
+
+- 零基础自学小程序系列已被w3cschool收录:http://www.w3cschool.cn/xiaochengxu
+- 微信小游戏：https://30paotui.com/
+- 零基础实战入门小程序系列教程：https://www.jianshu.com/c/f386d5ba1b3c
 
 
 ![](https://github.com/qiushi123/xiaochengxu_demos/blob/master/images/wechatlogo.jpg?raw=true)
@@ -42,6 +44,12 @@
 
 ——————————
 下面是效果图，源码地址和博客讲解------------------------------------------------------
+# 015，借助云开发实现小程序朋友圈的发布与展示
+- 图文讲解：https://blog.csdn.net/qiushi_1990/article/details/102518462
+- 源码看上面文件191010
+- 视频讲解：https://study.163.com/course/courseMain.htm?courseId=1209499804
+
+
 # 014 使用小程序云开发实现小程序支付功能
 - 博客详解：https://blog.csdn.net/qiushi_1990/article/details/99347580
 - 源码看上面014

@@ -1,29 +1,18 @@
+.itemRoot {
+  margin-left: 50rpx;
+}
+
 .imgRoot {
+  margin-left: 40rpx;
+}
+
+.imgList {
   display: inline-block;
 }
 
-.imgItem {
-  margin: 6rpx;
-  position: relative;
-  width: 176rpx;
-  height: 176rpx;
-  background: gainsboro;
-}
-
 .img {
-  width: 100%;
-  height: 100%;
-}
-
-.closeImg {
-  position: absolute;
-  right: 0px;
-  width: 32rpx;
-  height: 32rpx;
-}
-
-.photo {
-  width: 50%;
-  height: 50%;
-  margin: 25%;
+  margin: 5rpx;
+  position: relative;
+  width: 155rpx;
+  height: 155rpx;
 }

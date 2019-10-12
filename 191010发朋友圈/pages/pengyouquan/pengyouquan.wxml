@@ -1,15 +1,12 @@
-<view class="">
-  <view class="imgRoot" wx:for="{{imgList}}" wx:key="{{index}}" bindtap="ViewImage" data-url="{{imgList[index]}}">
-    <view wx:if="{{imgList.length==(index+1)&& imgList.length<8}}" class="imgItem" bindtap="ChooseImage">
-      <image class="photo" src="../../images/photo.png"></image>
+<block wx:for="{{dataList}}" wx:key="index">
+  <view class="itemRoot">
+    <view>
+      <text class="desc">{{item.desc}}</text>
     </view>
-    <view wx:else class="imgItem" data-index="{{index}}">
-      <image class="img" src='{{item}}' mode='aspectFill'></image>
-      <image class="closeImg" bindtap="DeleteImg" src="../../images/close.png" data-index="{{index}}"></image>
+    <view class="imgRoot">
+      <block class="imgList" wx:for="{{item.fileIDs}}" wx:for-item="itemImg" wx:key="index">
+        <image class="img" src='{{itemImg}}' mode='aspectFill' data-img='{{[itemImg,item.fileIDs]}}' bindtap="previewImg"></image>
+      </block>
     </view>
   </view>
-  <!-- 一开始用来占位 -->
-  <view wx:if="{{imgList.length==0}}" class="imgItem" bindtap="ChooseImage">
-    <image class="photo" src="../../images/photo.png"></image>
-  </view>
-</view>
+</block>
