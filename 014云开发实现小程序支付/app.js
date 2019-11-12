@@ -1,8 +1,8 @@
 //app.js
 App({
-  onLaunch: function () {
-   wx.cloud.init({
-     env:"prod-ayrkn"
-   })
-  }
+    onLaunch: function () {
+        wx.cloud.init({
+            env: "prod-ayrkn"
+        })
+    }
 })
