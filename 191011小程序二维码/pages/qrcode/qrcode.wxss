@@ -1,0 +1,7 @@
+.inputUrl {
+  border: solid 1px gray;
+  margin: 10rpx;
+}
+.btn{
+  margin: 20rpx;
+}

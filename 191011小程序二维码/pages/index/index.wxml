@@ -1,0 +1,3 @@
+<button bindtap="goQrCode">普通二维码</button>
+<button bindtap="goWxApp">小程序码</button>
+<image src="{{wxAcode}}"></image>

@@ -1,0 +1,92 @@
+.content {
+  width: 100%;
+  background-color: #fff;
+}
+
+.img-list {
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.img-item {
+  width: 30%;
+  text-align: left;
+  margin-right: 20rpx;
+  margin-bottom: 10rpx;
+}
+
+.img-item image {
+  width: 180rpx;
+  height: 180rpx;
+}
+
+.submit-btn {
+  width: 100%;
+  background-color: #fff;
+  height: 80rpx;
+  text-align: center;
+  line-height: 80rpx;
+  font-size: 30rpx;
+  position: fixed;
+  bottom: 100rpx;
+}
+
+.chooseimg {
+  background-color: #fff;
+}
+
+.weui-uploader__input-box {
+  float: left;
+  position: relative;
+  margin-right: 9px;
+  margin-bottom: 9px;
+  width: 180rpx;
+  height: 180rpx;
+  border: 1px solid #d9d9d9;
+}
+
+.weui-uploader__input-box:before {
+  width: 2px;
+  height: 39.5px;
+}
+
+.weui-uploader__input-box:after, .weui-uploader__input-box:before {
+  content: " ";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: #d9d9d9;
+}
+
+.weui-uploader__input-box:after {
+  width: 39.5px;
+  height: 2px;
+}
+
+.weui-uploader__input-box:after, .weui-uploader__input-box:before {
+  content: " ";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: #d9d9d9;
+}
+
+.tips {
+  color: #666;
+  font-size: 24rpx;
+  padding-bottom: 20rpx;
+}
+
+.img-box {
+  width: 92%;
+  margin: auto;
+  padding-top: 20rpx;
+}

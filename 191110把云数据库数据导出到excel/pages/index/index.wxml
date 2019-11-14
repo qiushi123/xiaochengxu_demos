@@ -1,0 +1,3 @@
+<button bindtap="daochu">导出数据库信息到excel表</button>
+<text>{{fileUrl}}</text>
+<button bindtap="copyFileUrl">复制excel下载链接</button>

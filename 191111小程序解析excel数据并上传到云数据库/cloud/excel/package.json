@@ -1,0 +1,15 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.15.0",
+    "wx-server-sdk": "latest"
+  }
+}

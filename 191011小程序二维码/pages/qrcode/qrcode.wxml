@@ -1,0 +1,6 @@
+<view>
+  <input value="{{url}}" bindinput="inputUrl" class="inputUrl" />
+  <button bindtap='getQr' class="btn"> 生成二维码</button>
+</view>
+<!-- 用来显示二维码 -->
+<canvas style="width: 750rpx;height: 750rpx;background:#f1f1f1;" canvas-id="mycanvas" />
